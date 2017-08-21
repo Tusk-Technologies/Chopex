@@ -1,6 +1,6 @@
 # Chopex
 
-![alt text] (https://github.com/Tusk-Technologies/Chopex/blob/master/Soviet-helicopter-by-Rones-2400px.png)
-:align: center
+<p align="center"><img src="Soviet-helicopter-by-Rones-2400px.png" width="360"></p>
+</p>
 
 `Chopex` is a module to help do boring stuff much more intuitively! Still under development.
