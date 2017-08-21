@@ -1,4 +1,4 @@
-<p align="Right"><img src="Soviet-helicopter-by-Rones-2400px.png" width="360"></p>
+<p align="Left"><img src="Soviet-helicopter-by-Rones-2400px.png" width="360"></p>
 </p> 
 
 # Chopex
