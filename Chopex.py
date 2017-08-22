@@ -10,7 +10,7 @@ except IOError:
     print "no default path set yet"
 
 def changedir():
-    #part of creating a complete experience is to think not only one instance of directory change
+    #part of creating a complete experience is to think not only one instance of a process
     print "1. Default"
     print "2. Other"
     Choices = input("Which path would you like to change? ")
